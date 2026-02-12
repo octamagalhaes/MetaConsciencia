@@ -40,8 +40,8 @@ export function Hero() {
                 </h1>
 
                 <p className="text-xl md:text-3xl text-primary font-medium tracking-tight max-w-2xl mx-auto leading-tight">
-                    Pare de contar com a sorte. <br />
-                    <span className="text-white">Comece a decidir com lucro.</span>
+                    Vá além da sorte. <br />
+                    <span className="text-white">Sintonize sua consciência com a ciência da prosperidade.</span>
                 </p>
 
                 <div className="space-y-6 max-w-2xl mx-auto pt-4">
